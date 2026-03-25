@@ -12,7 +12,7 @@ Sou um entusiasta da tecnologia que transita entre o software e o hardware. Ador
 ### 🌐 Como me encontrar
 
 <div style="display: inline_block">
-  <a href="[[[https://linkedin.com/in/SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/ziuspion-j%C3%BAnior-2a43043ba/?skipRedirect=true)](https://www.linkedin.com/in/ziuspion-j%C3%BAnior-2a43043ba/?skipRedirect=true)](https://www.linkedin.com/in/ziuspion-j%C3%BAnior-2a43043ba/?skipRedirect=true)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ziuspion-j%C3%BAnior-2a43043ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:orlandojuniorbritodasilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
 
@@ -30,6 +30,6 @@ Sou um entusiasta da tecnologia que transita entre o software e o hardware. Ador
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ziuspion&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziuspion&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ziuspion&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziuspion&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas"/>
 </div>

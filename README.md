@@ -30,6 +30,6 @@ Sou um entusiasta da tecnologia que transita entre o software e o hardware. Ador
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Orlando_Brito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orlando_Brito&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ziuspion&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziuspion&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>

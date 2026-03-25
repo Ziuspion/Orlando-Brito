@@ -24,12 +24,3 @@ Sou um entusiasta da tecnologia que transita entre o software e o hardware. Ador
   <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
-
-<br>
-
-### 📊 Minhas Estatísticas
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ziuspion&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziuspion&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas"/>
-</div>
